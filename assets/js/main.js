@@ -42,7 +42,7 @@ const app = {
         {
             name: "Hai Mươi Hai",
             singer: "Amee",
-            path: "./assets/music/Hai_muoi_hai.mp3",
+            path: "./assets/music/Hai_Muoi_Hai.mp3",
             image: "./assets/img/hai_muoi_hai.jpg",
         },
         {
